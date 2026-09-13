@@ -1,44 +1,21 @@
- About Me:
-👋 Hey, Kaamyaar
-
-I’m a Computer Science Engineering student in my 3rd year, interested in software development, problem solving, and building practical solutions to real-world problems.
-
-I enjoy learning by actually building things, whether it’s a small programming project, a web application, an AI/ML-based system, or experimenting with a new technology. I’m currently strengthening my fundamentals in Data Structures & Algorithms, Object-Oriented Programming, Databases, Operating Systems, and Computer Networks, while also exploring modern web development and AI.
-
-### 💻 What I work with
-
-* Languages: Java, Python, JavaScript, C
-* Web Development: HTML, CSS, JavaScript, React, Node.js, Express
-* Databases: MySQL, MongoDB, SQLite, Oracle
-* Core CS: DSA, OOP, DBMS, OS, Computer Networks
-* Tools: Git, GitHub, VS Code
-
-### 🚀 What I’m interested in
-
-I’m particularly interested in software development, AI/ML, and building technology that solves practical problems. I also enjoy coming up with product ideas and turning them into working prototypes.
-
-Some of my projects range from DSA-based applications and Java/Python programs to full-stack web applications and AI-powered systems.
-
-### 📚 Currently
-
-I’m focused on improving my problem-solving and DSA skills, becoming better at writing clean and efficient code, and gaining more hands-on experience through projects, hackathons, and experimentation.
-
-I’m still exploring different areas of Computer Science, but my goal is simple:
-
-> Keep learning, keep building, and turn ideas into something useful.
-💻 Tech Stack:
-C CSS3 JavaScript Java HTML5 LaTeX Python Windows Terminal Express.js NPM NodeJS React Vite Apache Tomcat MySQL SQLite Figma Matplotlib NumPy Pandas Git GitHub
-
-📊 GitHub Stats:
+# 💫 About Me:
+## 👋 Hey, Kaamyaar<br><br>I'm a **Computer Science Engineering student in my 3rd year**, interested in software development, problem solving, and building practical solutions to real-world problems.<br><br>I enjoy learning by actually **building things**, whether it's a small programming project, a web application, an AI/ML-based system, or experimenting with a new technology. I'm currently strengthening my fundamentals in **Data Structures & Algorithms, Object-Oriented Programming, Databases, Operating Systems, and Computer Networks**, while also exploring modern web development and AI.<br><br>### 💻 What I work with<br><br>* **Languages:** Java, Python, JavaScript, C<br>* **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express<br>* **Databases:** MySQL, MongoDB, SQLite, Oracle<br>* **Core CS:** DSA, OOP, DBMS, OS, Computer Networks<br>* **Tools:** Git, GitHub, VS Code<br><br>### 🚀 What I'm interested in<br><br>I'm particularly interested in **software development, AI/ML, and building technology that solves practical problems**. I also enjoy coming up with product ideas and turning them into working prototypes.<br><br>Some of my projects range from **DSA-based applications and Java/Python programs to full-stack web applications and AI-powered systems**.<br><br>### 📚 Currently<br><br>I'm focused on improving my **problem-solving and DSA skills**, becoming better at writing clean and efficient code, and gaining more hands-on experience through projects, hackathons, and experimentation.<br><br>I'm still exploring different areas of Computer Science, but my goal is simple:<br><br>> **Keep learning, keep building, and turn ideas into something useful.**<br>
 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KaamyarXTalha&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KaamyarXTalha&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KaamyarXTalha&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KaamyarXTalha&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KaamyarXTalha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://komarev.com/ghpvc/?username=KaamyarXTalha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🏆 GitHub Trophies
-
-
-🔝 Top Contributed Repo
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
